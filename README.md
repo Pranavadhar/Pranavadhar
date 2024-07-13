@@ -1,8 +1,9 @@
-## Hi there 👋
 
-<div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNod2J3dXU3ZDB0a3h6a3J3enlkaWxxYWViY2RtcHJiMnBrbjZrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OvOQJNNfKpwEMPy3Yl/giphy.gif)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNod2J3dXU3ZDB0a3h6a3J3enlkaWxxYWViY2RtcHJiMnBrbjZrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OvOQJNNfKpwEMPy3Yl/giphy.gif)f" width="100"/>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk2c2JqMzU4Mjlwc3hncTVwcDdsMnA1MXF2ODhweGhhdzNnY2J6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
 </div>
+<br>-----------------------------------------------------------------------------------------------
+<br>## Hi there 👋
 
 Myself Pranavadhar A
 
@@ -11,3 +12,24 @@ Myself Pranavadhar A
 🔭 I mostly work on ML , DL & AI 
 
 ⚙️ Check out me in -> https://pranavadhar.github.io/Pranavadhar-overview---web-work/
+<br>-----------------------------------------------------------------------------------------------
+<br>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title = "C"
+alt = "C" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" alt = "Python" width = "40" height = "40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+</div>
+<br>--------------------------------------------------------------------------------------------
+### :fire: My Stats :
+<br>
+<br><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pranavadhar%20" alt="GitHub Streak" /></a>
+<br>--------------------------------------------------------------------------------------------
