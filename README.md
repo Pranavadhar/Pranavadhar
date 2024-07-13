@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk2c2JqMzU4Mjlwc3hncTVwcDdsMnA1MXF2ODhweGhhdzNnY2J6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
 </div>
 <br>------------------------------------------------------------------------------------------------------------------------------------------------------
-<br>## Hi there 👋
+<br> Hi there 👋
 
 Myself Pranavadhar A
 
@@ -29,7 +29,8 @@ alt = "C" width = "40" height = "40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
 </div>
 <br>-----------------------------------------------------------------------------------------------------------------------------------------------------
-<br>### :fire: My Stats :
+<br>
+### :fire: My Stats :
 <br>
 <br><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pranavadhar%20" alt="GitHub Streak" /></a>
 <br>-----------------------------------------------------------------------------------------------------------------------------------------------------
