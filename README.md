@@ -7,7 +7,7 @@
 
 Myself Pranavadhar A
 
-🎓 Electrical and Computer Engineering @ Amrita Vishwa Vidyapeetham University
+🎓 Electrical and Computer Engineering @ Amrita Vishwa Vidyapeetham 
 
 🔭 I mostly work on ML , DL & AI 
 
