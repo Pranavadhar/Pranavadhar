@@ -12,8 +12,8 @@ Myself Pranavadhar A
 🔭 I mostly work on ML , DL & AI 
 
 ⚙️ Check out me in -> https://pranavadhar.github.io/Pranavadhar-overview---web-work/ 
-<br>  or 
-https://pranavadhar-portfolio.vercel.app/
+<br>                                           or 
+<br>                  https://pranavadhar-portfolio.vercel.app/
 <br>-----------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 ### :hammer_and_wrench: Languages and Tools :
