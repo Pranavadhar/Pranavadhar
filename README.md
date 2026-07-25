@@ -17,10 +17,8 @@ whoami:
   name: "Pranavadhar A"
   role: "Analyst - AI & Advanced Analytics @ C5I"
   education: "B.Tech, Electrical & Computer Engineering @ Amrita Vishwa Vidyapeetham"
-  focus: ["Data Engineering", "LLMs & Agentic AI", "RAG Systems", "MLOps"]
-  currently_building: "Autonomous AI Agents for Data Migration & Lineage"
-  portfolio: "https://pranavadhar-portfolio.vercel.app/"
-  fun_fact: "I make pipelines talk to LLMs and LLMs talk to pipelines 🤖⚡"
+  focus: ["Data Engineering", "LLMs & Agentic AI", "RAG Systems", "MLOps", "Custom MCPs"]
+  
 ```
 
 <div align="center">
