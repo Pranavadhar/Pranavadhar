@@ -92,19 +92,6 @@ whoami:
 
 ---
 
-### 💼 What I'm Currently Building @ C5I
-
-| Project | Description |
-|---|---|
-| 🔗 **RAG Pipelines** | Context-aware querying over enterprise data using Azure OpenAI + LangChain |
-| 🧭 **Schema Matcher Agent** | LLM agent that auto-aligns source ↔ target schemas for data migration |
-| 🤖 **Migration Code Generator** | AI agent that writes PySpark/SQL migration code from schema mappings |
-| 🕸️ **Orchestrator Agent** | LangGraph-based agent that autonomously triggers Databricks pipelines |
-| 📊 **System Lineage Viewer** | Interactive graph app visualising end-to-end data flow |
-| 🧩 **AI Data Management Tool** | Full-stack SPA: data profiling, ML modelling, RAG querying, ER modelling |
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
